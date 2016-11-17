@@ -16,3 +16,4 @@ C:\Users\jalle\Dropbox\Projects\Alfabet\LicensingService\LicensingService\bin\En
 C:\Users\jalle\Dropbox\Projects\Alfabet\LicensingService\LicensingService\bin\EntityFramework.SqlServer.xml
 C:\Users\jalle\Dropbox\Projects\Alfabet\LicensingService\LicensingService\obj\Debug\LicensingService.dll
 C:\Users\jalle\Dropbox\Projects\Alfabet\LicensingService\LicensingService\obj\Debug\LicensingService.pdb
+c:\Users\jalle\Dropbox\Projects\Alfabet\LicensingService\LicensingService\obj\Debug\LicensingService.csprojResolveAssemblyReference.cache
