@@ -8,6 +8,7 @@ namespace LicensingService {
 
     public bool AddSubscription(SubscribeViewModel model)
     {
+      
       try {
         Subscriptions sub = new Subscriptions() {
           UserID = model.Email,
